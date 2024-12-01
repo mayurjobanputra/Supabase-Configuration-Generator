@@ -78,7 +78,7 @@ export default function Index() {
                 </p>
                 <p className="text-blue-700 flex items-center gap-2">
                   <Github className="h-4 w-4" />
-                  Clone our <a href="https://github.com/yourusername/your-repo" target="_blank" rel="noopener noreferrer" className="underline">public GitHub repository</a> to inspect the source code and run this tool locally.
+                  Clone our <a href="https://github.com/mayurjobanputra/Supabase-Documentation-Generator" target="_blank" rel="noopener noreferrer" className="underline">public GitHub repository</a> to inspect the source code and run this tool locally.
                 </p>
               </div>
             </div>
